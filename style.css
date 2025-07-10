@@ -1,0 +1,12 @@
+body {
+  background-color: #F0F0F0;
+}
+
+h1 {
+  text-align: center;
+}
+
+.home-link {
+  display: block;
+  text-align: center;
+}
