@@ -1,12 +1,22 @@
 body {
-  background-color: #F0F0F0;
+  background-color: #FEFAE0;
 }
 
 h1 {
   text-align: center;
+  color: #819067;
 }
 
 .home-link {
   display: block;
   text-align: center;
+}
+
+#recipe-index {
+  display: inline;
+  text-align: center;
+}
+
+a {
+  color: #A08963  
 }
