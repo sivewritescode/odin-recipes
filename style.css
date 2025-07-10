@@ -1,5 +1,6 @@
 body {
   background-color: #FEFAE0;
+  padding: 0px 100px;
 }
 
 h1 {
@@ -15,8 +16,10 @@ h1 {
 #recipe-index {
   display: inline;
   text-align: center;
+  list-style-type: none;
 }
 
 a {
   color: #A08963  
 }
+
